@@ -23,7 +23,7 @@ The docker image can be started using
 
 ```
 ## H2
-By default the application uses an H2 database. The h2 console is enabled at http://localhost:8080/h2-console.
+By default the application uses an H2 database.
 
 ## Error massages
 Error messages are enabled 
