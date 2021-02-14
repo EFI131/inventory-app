@@ -29,6 +29,11 @@ public class Item implements Serializable {
         name = _name;
         description = _description;
         inventoryCode = _inventoryCode;
+        quantity =  0;
+    }
+
+    public void setId(long id) {
+        this.id = id;
     }
 
     public long getId() {
