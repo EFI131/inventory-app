@@ -16,7 +16,7 @@ Item Deletion.
 ## Building
 The sample is built using maven. 
 ```
-mvn clean install
+mvnw clean install
 ```
 ## Docker
 A docker image named `efisteiner/springboot-inventory-app` is available on [Docker HUB](https://hub.docker.com/repository/docker/efisteiner/springboot-inventory-app).
