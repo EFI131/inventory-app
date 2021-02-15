@@ -23,7 +23,8 @@ A docker image named `efisteiner/springboot-inventory-app` is available on [Dock
 
 ```
 ## H2
-By default the application uses an H2 database.
+By default the application uses an H2 database. 
+Several data items are initialized by default with a CommandLineRunner
 
 ## Error massages
 Error messages are enabled 
