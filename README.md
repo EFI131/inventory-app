@@ -21,8 +21,6 @@ The sample is built using maven.
 ## Docker
 A docker image named `efisteiner/springboot-inventory-app` is available on [Docker HUB](https://hub.docker.com/repository/docker/efisteiner/springboot-inventory-app).
 
-The docker image can be started using
-
 ```
 ## H2
 By default the application uses an H2 database.
