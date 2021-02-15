@@ -11,6 +11,8 @@ Item Creation.
 Deposit of n units of already created item.
 Withdrawal of n units of already created item.
 Item Deletion.
+Single item fetch by id 
+Fetch All Items
 
 ```
 ## Building
